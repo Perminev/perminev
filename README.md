@@ -1,5 +1,5 @@
 </p>
-<p align="center">
+<p align="left">
  </a>
  <img src="https://raw.githubusercontent.com/Perminev/perminev/main/github.png">
   </a>
