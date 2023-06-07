@@ -1,5 +1,14 @@
-### Hi there 👋
+</p>
+<p align="center">
+ </a>
+ <img src="https://raw.githubusercontent.com/Perminev/perminev/main/github.png">
+  </a>
+</p>
 
+# ⌨ Languages
+   </a>
+ <img src="https://img.shields.io/badge/CODE-PYTHON-informational?style=for-the-badge&logo=python">
+  </a>
 <!--
 **Perminev/perminev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
