@@ -1,9 +1,3 @@
-</p>
-<p align="left">
- </a>
- <img src="https://raw.githubusercontent.com/Perminev/perminev/main/github.png">
-  </a>
-</p>
 
 # ⌨ Languages
    </a>
