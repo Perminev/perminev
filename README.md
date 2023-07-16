@@ -1,8 +1,11 @@
 
 # ⌨ Languages
-   </a>
+  </a> 
  <img src="https://img.shields.io/badge/CODE-PYTHON-informational?style=for-the-badge&logo=python">
-  </a>
+ <img src="https://img.shields.io/badge/CODE-HTML-orange?style=for-the-badge&logo=html5">
+ <img src="https://img.shields.io/badge/CODE-CSS-darkblue?style=for-the-badge&logo=css3">
+  </a> 
+
 <!--
 **Perminev/perminev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
