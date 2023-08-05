@@ -8,8 +8,6 @@
   
 # 🔗 My Projects
 https://perminev.pythonanywhere.com <br /> 
-### 💻 Short link: <br /> 
-https://arn5.short.gy/pv <br /> 
 
 <!--
 **Perminev/perminev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
