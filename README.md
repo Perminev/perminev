@@ -7,8 +7,9 @@
   </a>
   
 # 🔗 My Projects
-https://perminev.pythonanywhere.com <br /> 
+https://perminev.pythonanywhere.com <br /> <br /> 
 
+# 🖥️ Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perminev&langs_count=8)
 
 <!--
