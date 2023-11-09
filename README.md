@@ -9,6 +9,8 @@
 # 🔗 My Projects
 https://perminev.pythonanywhere.com <br /> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perminev&langs_count=8)
+
 <!--
 **Perminev/perminev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
