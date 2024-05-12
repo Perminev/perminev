@@ -4,6 +4,7 @@
  <img src="https://img.shields.io/badge/CODE-PYTHON-informational?style=for-the-badge&logo=python">
  <img src="https://img.shields.io/badge/CODE-HTML-orange?style=for-the-badge&logo=html5">
  <img src="https://img.shields.io/badge/CODE-CSS-darkblue?style=for-the-badge&logo=css3">
+ <img src="https://img.shields.io/badge/CODE-CSHARP-darkviolet?style=for-the-badge&logo=csharp">
   </a>
   
 # 🔗 My Projects
